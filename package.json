@@ -12,12 +12,9 @@
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.11",
-    "exceljs": "^4.3.0",
-    "puppeteer": "^14.1.1",
-    "xlsx": "https://cdn.sheetjs.com/xlsx-0.18.8/xlsx-0.18.8.tgz"
+    "exceljs": "^4.3.0"
   },
   "devDependencies": {
-    "@types/puppeteer": "^5.4.6",
     "typescript": "^4.6.4"
   }
 }
